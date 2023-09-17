@@ -1,0 +1,11 @@
+creat a mavan project--file-->new-->mavan project--creat sample project-->put group id an artifact id--Click finish
+how to update java version ?
+	<properties>
+		<mavan.complier.source>19</mavan.complier.source>
+		<mavan.complier.target>19</mavan.complier.target>
+	</properties>
+	find out what java version you have in your local machine open pogram file frome this Computer-->java 
+	and make sure do not putb haiger veirson then your local java 
+	you can put lowar version 
+	
+	then do mavan update.
